@@ -1,0 +1,200 @@
+{
+    "project_logo": null,
+    "project_favicon": "favicon.png",
+    "project_name": "Josh Ellis Blog",
+    "project_url": "https://iamjoshellis.com/",
+    "copyright_start_year": 2016,
+    "client_name": "Josh Ellis",
+    "client_url": "https://iamjoshellis.com/",
+    "creators": [
+        {
+            "name": "Josh Ellis",
+            "url": "https://twitter.com/iamjoshellis"
+        }
+    ],
+    "theme": {
+        "border_color": "#E0E6ED",
+        "highlight_color": "#F9FAFC",
+        "brand_color": "#1abc9c",
+        "background_color": "#FFFFFF",
+        "code_highlight_theme": "github",
+        "override_code_highlight_bg": "#F9FAFC",
+        "sample_dark_background": "#333333",
+        "show_project_name": true,
+        "show_version": true,
+        "max_width": null
+    },
+    "assets": {
+        "css": [
+            "/dist/styles/main.css"
+        ],
+        "js": [
+        ]
+    },
+    "font_libraries": {
+        "typekit_code": null,
+        "typography_web_fonts": null,
+        "google_web_fonts": "//fonts.googleapis.com/css?family=Roboto+Slab:400,300|Lato:400,300"
+    },
+    "content": null,
+    "groups": [
+        {
+            "name": "branding",
+            "title": "Branding",
+            "components": [
+                {
+                    "group": "branding",
+                    "name": "logo",
+                    "title": "Logo",
+                    "width": "half",
+                    "options": {
+                        "sample_dark_background": true
+                    }
+                },
+                {
+                    "group": "branding",
+                    "name": "color-palette",
+                    "title": "Colors",
+                    "type": "colors",
+                    "colors": [
+                        "#1abc9c",
+                        "#DB5461",
+                        "#FECA51",
+                        "#1AC2CA",
+                        "#60C7FF",
+                        "#5cb85c",
+                        "#ff9d5d",
+                        "#E67373",
+                        "#1d1e21",
+                        "#434343",
+                        "#5A5A5A",
+                        "#a1a1a1",
+                        "#abacb1",
+                        "#DEDFE3",
+                        "#eeeeee",
+                        "#fefefe"
+                    ]
+                },
+                {
+                    "group": "branding",
+                    "name": "icons",
+                    "title": "Icons"
+                }
+            ]
+        },
+        {
+            "name": "typography",
+            "title": "Typography",
+            "components": [
+                {
+                    "group": "typography",
+                    "name": "headings",
+                    "title": "Headings",
+                    "width": "half"
+                },
+                {
+                    "group": "typography",
+                    "name": "paragraphs",
+                    "title": "Paragraphs",
+                    "width": "half"
+                },
+                {
+                    "group": "typography",
+                    "name": "blockquotes",
+                    "title": "Block Quote",
+                    "width": "half"
+                },
+                {
+                    "group": "typography",
+                    "name": "aside",
+                    "title": "Aside",
+                    "width": "half"
+                },
+                {
+                    "group": "typography",
+                    "name": "unordered-list",
+                    "title": "Unordered List",
+                    "width": "half"
+                },
+                {
+                    "group": "typography",
+                    "name": "ordered-list",
+                    "title": "Ordered List",
+                    "width": "half"
+                },
+                {
+                    "group": "typography",
+                    "name": "code",
+                    "title": "Code"
+                }
+            ]
+        },
+        {
+            "name": "buttons",
+            "title": "Buttons",
+            "components": [
+                {
+                    "group": "buttons",
+                    "name": "read-more",
+                    "title": "Read More Button",
+                    "width": "half"
+                },
+                {
+                    "group": "buttons",
+                    "name": "link",
+                    "title": "Link Button",
+                    "width": "half"
+                }
+            ]
+        },
+        {
+            "name": "forms",
+            "title": "Forms",
+            "components": [
+                {
+                    "group": "forms",
+                    "name": "input",
+                    "title": "Input",
+                    "width": "half"
+                },
+                {
+                    "group": "forms",
+                    "name": "textarea",
+                    "title": "Text Area",
+                    "width": "half"
+                }
+            ]
+        },
+        {
+            "name": "boxes",
+            "title": "Boxes",
+            "components": [
+                {
+                    "group": "boxes",
+                    "name": "info",
+                    "title": "Info Box",
+                    "width": "half"
+                },
+                {
+                    "group": "boxes",
+                    "name": "success",
+                    "title": "Success Box",
+                    "width": "half"
+                },
+                {
+                    "group": "boxes",
+                    "name": "alert",
+                    "title": "Alert Box",
+                    "width": "half"
+                },
+                {
+                    "group": "boxes",
+                    "name": "danger",
+                    "title": "Danger Box",
+                    "width": "half"
+                }
+            ]
+        }
+    ],
+    "version": "1.5.12"
+}
